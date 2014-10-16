@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bap:home|Door43 (bap)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bap|d43-bap repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bap/archive/master.zip|d43-bap.zip]]
+
+**Recent Changes**
+{{changes>ns = bap}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bap|Ethnologue data]]
+
